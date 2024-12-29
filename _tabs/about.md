@@ -13,17 +13,17 @@ tags: [resume, cv]
 
 - Expertise in **AI, machine learning, deep learning**, and **NLP** for healthcare applications.  
 - Strong knowledge of **healthcare data** (EHR, claims), **health policy**, and **clinical AI solutions**.  
-- Proficient in **Python**, **TensorFlow**, **PyTorch**, **SAS**, **R**, **SQL**, **JavaScript**, and data visualization tools (**Tableau**, **D3.js**).  
+- Proficient in **Python**, **SAS**, **R**, **SQL**, **JavaScript**, and data visualization tools (**Tableau**, **D3.js**).  
 - Skilled in **statistical modeling**, **predictive analytics**, and leading multidisciplinary projects.  
 - Strong communication, consulting, and leadership abilities to deliver impactful, data-driven solutions.  
 
 
 ---
 
-# Education
-- Ph.D. in Biomedical Informatics (part-time), University of Florida (Expected 2025)
-- M.S. in Biostatistics, University of Florida (2015)
-- B.S. in Biotechnology, Sun Yat-Sen University, China (2012)
+# Education  
+- **Ph.D. in Biomedical Informatics** (Part-time, Expected 2025) – University of Florida  
+- **M.S. in Biostatistics** (2015) – University of Florida  
+- **B.S. in Biotechnology** (2012) – Sun Yat-Sen University, China  
 
 ---
 
