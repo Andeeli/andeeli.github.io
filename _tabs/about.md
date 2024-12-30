@@ -9,6 +9,9 @@ categories: [Resume, CV]
 tags: [resume, cv]
 ---
 
+> [Check out my Projects here!](projects/)
+{: .prompt-tip }
+
 # Core Skills
 
 - Expertise in **AI, machine learning, deep learning**, and **NLP** for healthcare applications.  

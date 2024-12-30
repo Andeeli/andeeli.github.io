@@ -3,7 +3,7 @@ title: Early prediction of Alzheimer's disease
 description: >-
   This study explores machine learning methods for early prediction of ADRD using RWD from EHRs. Four computable phenotypes (CPs) identified cases with a 1:10 control match. Logistic regression and gradient boosting tree models were applied across prediction windows of 0, 1, 3, and 5 years. The data-driven model achieved an AUC of 0.854 for 5-year prediction.
 author: 
-date: 2023-02-23 12:00:00 +0000
+date: 2024-12-24 12:00:00 +0000
 categories: [Data Science, Health Research]
 tags: [alzheimer's, machine learning, ehr, predictive modeling]
 pin: false
