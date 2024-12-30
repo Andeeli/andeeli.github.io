@@ -9,8 +9,6 @@ categories: [Resume, CV]
 tags: [resume, cv]
 ---
 
-> [Check out my Projects here!](projects/)
-{: .prompt-tip }
 
 # Core Skills
 
@@ -20,6 +18,9 @@ tags: [resume, cv]
 - Skilled in **statistical modeling**, **predictive analytics**, and leading multidisciplinary projects.  
 - Strong communication, consulting, and leadership abilities to deliver impactful, data-driven solutions.  
 
+# Projects
+> [Check out my Projects here! 🚀 ](projects/)
+{: .prompt-tip }
 
 ---
 
